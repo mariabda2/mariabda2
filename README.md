@@ -2,9 +2,10 @@
 
 ### Ph.D. in Electronic Engineering · Bioengineer · Data Scientist · Research Professor
 
-I am a **researcher at Universidad de Antioquia (UdeA)**, working at the intersection of **Data Science, Artificial Intelligence, Machine Learning, and Engineering**. I currently coordinate the **Specialization in Analytics and Data Science** at the Faculty of Engineering and am a member of the **Intelligent Information Systems Laboratory (In2Lab)**.
+I am a **researcher at Universidad de Antioquia (UdeA)** and a member of the **Bioinstrumentation and Clinical Engineering Research Group (GIBIC)** and the **Intelligent Information Systems Laboratory (In2Lab)**. I also coordinate the **Semillero en Ciencia de Datos e Inteligencia Artificial** and the **Specialization in Analytics and Data Science** at the Faculty of Engineering.
 
-My research interests focus on the development and application of **data-driven and computational methods** to understand complex problems, extract meaningful knowledge from data, and support informed decision-making. I am particularly interested in **Machine Learning, Explainable AI, Biomedical Informatics, Computer Vision, Signal Processing, and Multimodal Data**.
+My research interests lie at the intersection of **Data Science, Artificial Intelligence, Machine Learning, and Bioengineering**, with a focus on developing and applying computational and data-driven methods to understand complex problems, extract knowledge from data, and support informed decision-making. My work spans **Machine Learning, Explainable AI, Biomedical Informatics, Computer Vision, Signal Processing, Multimodal Data, and intelligent systems**.
+
 
 ---
 
