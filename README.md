@@ -107,7 +107,11 @@ I am particularly interested in connecting **theoretical foundations, computatio
   <a href="https://scholar.google.com/citations?hl=es&user=SY3ZiQ0AAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
+  <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001353390">
+    <img src="https://img.shields.io/badge/CvLAC-Minciencias-0B5CAD?style=for-the-badge&logoColor=white" alt="CvLAC">
+  </a>
 </p>
+
 
 ---
 
