@@ -1,4 +1,4 @@
-# 👋 Hi, I'm María Bernarda Salazar Sánchez
+# 👋 Hi, I'm M. B. Salazar-Sánchez
 
 ### Ph.D. in Electronic Engineering · Bioengineer · Data Scientist · Research Professor
 
