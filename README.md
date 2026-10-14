@@ -60,11 +60,9 @@ My research interests lie at the intersection of **Data Science, Artificial Inte
 
 Research on **machine learning, computer vision, and multimodal data for Colombian Sign Language (LSC)**, focusing on multi-view video acquisition, spatiotemporal representations, and body, hand, and facial landmarks.
 
-**LSC5 — A Multi-View Video and Spatiotemporal Landmark Dataset for Colombian Sign Language**
+The dataset integrates multi-view video recordings and spatiotemporal landmarks, including: `Body Pose` · `Hand Landmarks` · `Facial Landmarks` · `Multi-View Video` · `Spatiotemporal Data`
 
 🔗 [Access the LSC5 Dataset on Figshare](https://figshare.com/s/1f2008e0fcd6cfd151ad)
-
-**Research topics:** Sign language recognition · Computer vision · Pose estimation · Facial and hand landmarks · Multimodal learning
 
 
 
@@ -72,15 +70,9 @@ Research on **machine learning, computer vision, and multimodal data for Colombi
 
 Research and development of **wearable sensing technologies and multimodal biomedical systems** for physiological monitoring, neuromuscular assessment, rehabilitation, and human–machine interaction.
 
-The research integrates complementary sensing modalities, including:
+The research integrates complementary sensing modalities, including: `sEMG` · `IMU` · `Pressure` · `Bioimpedance` · `Temperature`
 
-`sEMG` · `IMU` · `Pressure` · `Bioimpedance` · `Temperature`
-
-**Dataset:** Multimodal wearable sensing data collected for the analysis of physiological signals and contextual information.
-
-🔗 [Access the Wearable & Biomedical Dataset on Figshare](https://doi.org/10.6084/m9.figshare.34438656)
-
-**Research topics:** Surface electromyography (sEMG) · Wearable sensors · Physiological signal processing · Multimodal data analysis · Machine learning · Biomedical instrumentation
+🔗 [Access MyoProBand Dataset on Figshare](https://doi.org/10.6084/m9.figshare.34438656)
 
 
 ---
