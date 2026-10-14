@@ -9,16 +9,16 @@ My research interests lie at the intersection of **Data Science, Artificial Inte
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Analytics
-- 🧠 Explainable Artificial Intelligence (XAI)
-- 🩺 Biomedical Informatics
-- 📈 Mathematical & Physiological Modeling
-- 🤟 Sign Language Recognition & Accessibility
-- 📡 Wearable & Multimodal Sensing
-- 📡 Signal Processing
+-  Artificial Intelligence & Machine Learning
+- Data Science & Analytics
+-  Explainable Artificial Intelligence (XAI)
+-  Biomedical Informatics
+-  Mathematical & Physiological Modeling
+-  Sign Language Recognition & Accessibility
+-  Wearable & Multimodal Sensing
+-  Signal Processing
 
 ---
 
@@ -55,13 +55,6 @@ My research interests lie at the intersection of **Data Science, Artificial Inte
 
 ##  Research
 
-###  Research interests
-
-- Machine learning and artificial intelligence
-- Computer vision and spatiotemporal analysis
-- Multimodal data acquisition and processing
-- Wearable biomedical systems
-- Data-driven approaches for assistive technologies and human–machine interaction
 
 ###  Colombian Sign Language (LSC)
 
