@@ -53,36 +53,46 @@ My research interests lie at the intersection of **Data Science, Artificial Inte
 
 ---
 
-## 🧪 Research
+##  Research
 
-### 🩺 AI for Health
+###  Research interests
 
-Research applying machine learning and explainable AI to clinical and biomedical data, including:
+- Machine learning and artificial intelligence
+- Computer vision and spatiotemporal analysis
+- Multimodal data acquisition and processing
+- Wearable biomedical systems
+- Data-driven approaches for assistive technologies and human–machine interaction
 
-- Clinical prediction
-- Hospital readmission
-- Medical imaging
-- Radiomics
-- Disease classification
-- Explainable AI
+###  Colombian Sign Language (LSC)
 
-### 🤟 Colombian Sign Language
-
-Research on **machine learning, computer vision and multimodal data for Colombian Sign Language (LSC)**, including video, spatiotemporal representations, and body, hand and facial landmarks.
+Research on **machine learning, computer vision, and multimodal data for Colombian Sign Language (LSC)**, focusing on multi-view video acquisition, spatiotemporal representations, and body, hand, and facial landmarks.
 
 **LSC5 — A Multi-View Video and Spatiotemporal Landmark Dataset for Colombian Sign Language**
 
-🔗 [LSC5 Dataset](https://figshare.com/s/1f2008e0fcd6cfd151ad)
+🔗 [Access the LSC5 Dataset on Figshare](https://figshare.com/s/1f2008e0fcd6cfd151ad)
 
-### 📡 Wearable & Biomedical Systems
-
-Development and analysis of multimodal sensing systems combining:
-
-`sEMG` · `IMU` · `Pressure` · `Bioimpedance` · `Temperature`
+**Research topics:** Sign language recognition · Computer vision · Pose estimation · Facial and hand landmarks · Multimodal learning
 
 ---
 
-## 🎓 Teaching & Education
+###  Wearable & Biomedical Systems
+
+Research and development of **wearable sensing technologies and multimodal biomedical systems** for physiological monitoring, neuromuscular assessment, rehabilitation, and human–machine interaction.
+
+The research integrates complementary sensing modalities, including:
+
+`sEMG` · `IMU` · `Pressure` · `Bioimpedance` · `Temperature`
+
+**Dataset:** Multimodal wearable sensing data collected for the analysis of physiological signals and contextual information.
+
+🔗 [Access the Wearable & Biomedical Dataset on Figshare](https://doi.org/10.6084/m9.figshare.34438656)
+
+**Research topics:** Surface electromyography (sEMG) · Wearable sensors · Physiological signal processing · Multimodal data analysis · Machine learning · Biomedical instrumentation
+
+
+---
+
+## Teaching & Education
 
 I teach and mentor students in:
 
