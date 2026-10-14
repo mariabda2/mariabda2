@@ -93,7 +93,7 @@ I am particularly interested in connecting **theoretical foundations, computatio
 
 ---
 
-## 📚 Academic Profiles
+##  Academic Profiles
 
 <p align="left">
   <a href="https://orcid.org/0000-0002-6137-6357">
@@ -110,15 +110,7 @@ I am particularly interested in connecting **theoretical foundations, computatio
 
 ---
 
-## 💡 Research Philosophy
-
-> **Data becomes valuable when it helps us understand, explain, and make better decisions.**
-
-I am interested in building bridges between **engineering, data, artificial intelligence, and scientific research** to address meaningful real-world problems.
-
----
-
-### 📫 Let's Connect
+###  Let's Connect
 
 Feel free to explore my repositories and research projects.
 
