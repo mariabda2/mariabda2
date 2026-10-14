@@ -53,7 +53,7 @@ My research interests lie at the intersection of **Data Science, Artificial Inte
 
 ---
 
-##  Research
+##  Research Datasets
 
 
 ###  Colombian Sign Language (LSC)
@@ -66,7 +66,7 @@ Research on **machine learning, computer vision, and multimodal data for Colombi
 
 **Research topics:** Sign language recognition · Computer vision · Pose estimation · Facial and hand landmarks · Multimodal learning
 
----
+
 
 ###  Wearable & Biomedical Systems
 
